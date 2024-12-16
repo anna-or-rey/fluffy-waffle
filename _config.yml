@@ -1,5 +1,5 @@
 title: My Jekyll Blog
 description: >
   A simple blog built with Jekyll and GitHub Pages.
-baseurl: "/fluffy-waffles" # the subpath of your site, e.g. /blog
+baseurl: "/fluffy-waffle" # the subpath of your site, e.g. /blog
 url: "http://anna-or-rey.github.io" # the base hostname & protocol for your site
