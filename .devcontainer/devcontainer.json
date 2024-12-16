@@ -1,0 +1,15 @@
+{
+    "name": "Jekyll Development Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/ruby:0-3.0",
+    "features": {
+      "ghcr.io/devcontainers/features/node:1": {}
+    },
+    "postCreateCommand": "bundle install",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "rebornix.Ruby"
+        ]
+      }
+    }
+  }
